@@ -1,4 +1,4 @@
-# Plot.ly - Belly Button Biodiversity
+# Plot.ly - Belly Button Biodiversity - Clemente Sanchez
 
 ![Bacteria image](Images/header_microbials.jpeg)
 
